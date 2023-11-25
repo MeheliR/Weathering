@@ -4,7 +4,9 @@
 
 ## Introduction
 
-Weathering is a web application that provides real-time weather information. It offers features such as viewing the current weather, a  wind speed, temperature for the current day, humidity, and visibility, 
+Weathering is a web application that provides real-time weather information. It offers features such as viewing the current weather, a  wind speed, temperature for the current day, humidity, and visibility .
+
+You can experience a glimpse os the place your searched for within seconds. 
 
 The application is developed using HTML, CSS, and JavaScript, and it utilizes the OpenWeather API to fetch weather data for different cities around the world.
 
