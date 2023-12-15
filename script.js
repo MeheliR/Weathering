@@ -1,7 +1,7 @@
 // Object storing weather data and related functions
 let weather = {
     // API key for OpenWeatherMap
-    apiKey:"your api key",
+    apiKey:"511c0d53e786d6e701870951d85c605d",
 
 
     // Function to fetch weather data for a given city

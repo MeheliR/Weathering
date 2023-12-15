@@ -85,3 +85,52 @@ body {
     top: 0;
     left: 20px;
   }
+
+
+ 
+
+
+  :root {
+    --background: #7c7c7c6b;
+    --accent: #F4BD50;
+  }
+
+  .cta-button {
+    align-items: center;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0 0 0 0 var(--accent);
+    background-color: var(--background);
+    color: whitesmoke;
+    cursor: pointer;
+    /*display: flex;
+    display: grid;*/
+    display: inline-block;
+    font-size: 15px;
+    font-weight: 100;
+    font-family: 'Courier prime', monospace;
+    font-size: 20px;
+    height: auto;
+    justify-content: center;
+    line-height: 1.9rem;
+    letter-spacing: 0.1rem;
+    max-width: 180px;
+    margin-top: 15px;
+    outline: 2px solid;
+    outline-color: whitesmoke;
+    outline-offset: 0px;
+    padding: 12px 15px;
+    position: relative;
+    place-items: center;
+    text-align: center;
+    text-decoration: none;
+    text-transform:inherit;
+    text-shadow: none;
+    transition: all 550ms cubic-bezier(.36, .63, .5, .73);
+    width: auto;
+  }
+  .cta-button:hover {
+    box-shadow: 0 0 0 2px var(--accent);
+    outline-color: rgba(255, 255, 255, 0);
+    color: var(--accent);
+  }
