@@ -24,7 +24,9 @@ export const monthNames=[
 ];
 export const getDate = (dateUnix,timezone)=>{
     const date = new Date((dateUnix+timezone)*1000);
-    const weekDayName = weekDayNames[date.getUTCDay()];
+    // Adjusting UTC day index to match weekDayNames array
+    const weekDayName = weekDayNames[(date.getUTCDay() + 6) % 7];
+    // const weekDayName = weekDayNames[date.getUTCDay()];
     const monthName = monthNames[date.getUTCMonth()];
 
     return `${weekDayName} ${date.getUTCDate()} ${monthName}`;
