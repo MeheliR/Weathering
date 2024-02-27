@@ -138,21 +138,21 @@ The `route.js` file manages the application's routing system. It defines routes 
 ![](screenshots/homepage.png)
 
 ### More Details Page
-![](screenshots/1600x1200.png)
+![](screenshots/Weathering_1600x1200.png)
 #### 1024x768
-![](screenshots/1024x768.png)
+![](screenshots/Weathering_1024x768.png)
 #### 1080x768
-![](screenshots/1080x768.png)
+![](screenshots/Weathering_1080x768.png)
 #### 1280x1024
-![](screenshots/1280x1024.png)
+![](screenshots/Weathering_1280x1024.png)
 #### iPad Mini
-![](screenshots/iPad%20Mini.png)
+![](screenshots/_Weathering_(iPad%20Mini).png)
 #### iPad Pro
-![](screenshots/iPad%20Pro.png)
+![](screenshots/Weathering_(iPad%20Pro).png)
 #### iPhone
-![](screenshots/iPhone%2014%20Pro%20Max.png)
+![](screenshots/Weathering_(iPhone%2014%20Pro%20Max).png)
 ### Samsung Galaxy S20 Ultra
-![](screenshots/Samsung%20Galaxy%20S20%20Ultra.png)
+![](screenshots/Weathering_(Samsung%20Galaxy%20S20%20Ultra).png)
 
 ### Default Page
 ![](screenshots/Screenshot%20(6).png)
