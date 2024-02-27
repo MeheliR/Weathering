@@ -7,8 +7,8 @@ export const weekDayNames=[
     "Thursday",
     "Friday",
     "Saturday",
-    
 ];
+
 export const monthNames=[
     "Jan",
     "Feb",
